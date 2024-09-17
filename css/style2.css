@@ -1,0 +1,148 @@
+
+/*style for project site*/
+.over4{
+    margin-top: 150px;
+    
+}
+.over43{
+ margin-bottom: 5px;
+ margin-top: 100px;
+}
+
+.fm1{
+  
+
+}
+.over4 h2{
+  letter-spacing: 2px;
+}
+
+.dividers{
+    height: 40px;
+}
+
+.col-xs-12 .person .icon {
+    
+    background-color: white;
+
+    margin-bottom: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    color: black;
+    
+  }
+
+
+.col-xs-12 .person .iconService{
+    margin-left: 50px;
+
+  }
+
+  .col-xs-12 .person i {
+    margin-top: 7px;
+    line-height: 100px;
+    margin-left: 20px;
+    margin-right: 30px;
+   /* padding-left: 10px;
+    padding-right: 10px;*/
+    text-align: center;
+  }
+  .col-xs-12 .person h3{
+    padding-left: 15px;
+  }
+  .col-xs-12 .person p{
+    padding-left: 15px;
+  }
+  .col-xs-12 .person span{
+    padding-left: 15px;
+  }
+  .col-xs-12 .person button{
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    background: none;
+  }
+
+  ul.b {
+    list-style-type: numbers;
+  }
+  ol > li::marker {
+    font-weight: bold;
+  }
+
+  li.big {
+    line-height: 1.8;
+    font-size: 1em; /* Adjust font size if needed */
+    letter-spacing: 1px;
+}
+
+.regForm{
+  width: 50%;
+  margin: auto;
+}
+
+.signup{
+  width: 50%;
+  margin-left:auto;
+}
+
+.custom-margin {
+  margin-left: 40px; /* Adjust as needed */
+}
+.sign{
+  display: none;
+}
+ /* Initial state of the hidden element */
+ #abot_us {
+  display: none;
+}
+#archDiv{
+  display: none;
+}
+
+/*
+.archGallery {
+ display: flex;
+ color: red;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+  border: solid black;
+  height: 200px;
+}
+
+ .imageGallery img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}*/
+
+.image-container{
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  display: inline block;
+  width: 300px;
+}
+.image-container img{
+max-width: 100%;
+height: auto;
+}
+
+.heads span{
+    color: white;
+}
+.heads h1{
+  margin-top:2rem;
+}
+
+.hheadss {
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+
+  
+  
